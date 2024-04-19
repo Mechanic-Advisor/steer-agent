@@ -1,2 +1,4 @@
-# steer-agent
-Self-hosted agents for SteerCRM integration
+# Steer Integration Agents
+
+Public repository of Shop Management System integration agents for Steer. 
+
